@@ -83,7 +83,6 @@ class App extends React.Component {
         <div className="col-12 px-5 pt-4">
           <ul className="list-unstyled">
             {this.todoList()}
-            <h2> Neden Eklemiyor anlamadım... :) </h2>
             {/*{this.state.todoItems.map((todoItem) => {
               return (
                 <li
